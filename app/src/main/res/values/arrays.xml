@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recharge_type">
+        <item>全部支付方式</item>
+        <item>APP-快捷支付</item>
+        <item>PC-快捷支付</item>
+        <item>WAP-快捷支付</item>
+        <item>网银支付</item>
+        <item>微信支付</item>
+        <item>平台代充值</item>
+        <item>平台奖励</item>
+    </string-array>
+    <string-array name="recharge_result">
+        <item>全部结果</item>
+        <item>充值成功</item>
+        <item>充值失败</item>
+        <item>支付中</item>
+    </string-array>
+</resources>
